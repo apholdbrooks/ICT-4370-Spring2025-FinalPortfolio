@@ -1,0 +1,21 @@
+Investor: Peyton Holdbrooks
+Address: Denver, CO
+Phone: (334)500-2140
+
+STOCKS:
+ID    Symbol    Qty   Earn      Yield%    Yearly%   
+S1    GOOG      125   21081.25  21.82     2.78      
+S2    MSFT      85    1397.40   29.05     3.70      
+S3    RDS-A     400   2464.00   12.42     1.58      
+S4    AIG       235   2599.10   20.40     2.60      
+S5    FB        150   7671.00   41.14     5.24      
+S6    M         425   -2686.00  -20.86    -2.81     
+S7    F         85    -138.55   -12.96    -1.77     
+S8    IBM       80    -405.60   -3.37     -0.48     
+
+BONDS:
+ID    Symbol    Qty   Earn      Date        
+B1    US10Y     100   410.00    01/01/2023  
+B2    COBOND1   200   948.80    01/15/2023  
+B3    MUNIBOND3 150   491.70    02/20/2023  
+B999  GT2:GOV   200   276.05    8/1/2017    
