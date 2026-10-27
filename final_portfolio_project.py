@@ -229,7 +229,7 @@ def visualize_json(json_file, portfolio):
 
 # === Main ===
 def main():
-    investor = Investor("INV001","Peyton Holdbrooks","Denver, CO","(334)500-2140")
+    investor = Investor("INV001","Demo Investor","Sample City, CO","(000)000-0000")
     stock_file = "Lesson6_Data_Stocks.txt"
     bond_file = "Week6_Data_Bonds.txt"
     db_file = "portfolio.db"
